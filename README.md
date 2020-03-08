@@ -176,14 +176,5 @@ http://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 
-### Developed By Thai android developer.
 
-
-[<img src="./pictures/profile2_circle.png" width="170">](https://www.facebook.com/nonthawit) [![TheKhaeng](./pictures/thekhaeng_logo.png)](https://www.facebook.com/thekhaeng.io/)
-
-
-Follow [facebook.com/thekhaeng.io](https://www.facebook.com/thekhaeng.io) on Facebook page.
-or [@nonthawit](https://medium.com/@nonthawit) at my Medium blog. :)
-
-For contact, shoot me an email at nonthawit.thekhaeng@gmail.com
 
